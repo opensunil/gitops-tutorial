@@ -99,7 +99,7 @@ We can get the operator's public key using the [fluxctl](https://github.com/weav
 First, we'll need to install the `fluxctl` tool. There are [different ways of installing it](https://github.com/weaveworks/flux/blob/master/site/fluxctl.md#installing-fluxctl) depending on your platoform. For this tutorial, we can grab the binary release directly.
 
 ```
-➤ wget https://github.com/weaveworks/flux/releases/download/1.8.1/fluxctl_linux_amd64
+➤ wget https://github.com/weaveworks/flux/releases/download/1.12.0/fluxctl_linux_amd64
 ➤ chmod +x fluxctl_linux_amd64
 ```
 
