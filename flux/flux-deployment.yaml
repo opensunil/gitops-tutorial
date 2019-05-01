@@ -100,7 +100,7 @@ spec:
         - --ssh-keygen-dir=/var/fluxd/keygen
 
         # replace or remove the following URL
-        - --git-url=opensunil@github.com:opensunil/gitops-tutorial
+        - --git-url=git@github.com:opensunil/gitops-tutorial
         - --git-path=deploy/kubernetes
         - --git-branch=master
 
